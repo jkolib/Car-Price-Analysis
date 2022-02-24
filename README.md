@@ -36,6 +36,7 @@ Some cleaning of the data was required. For one, the column headings were length
 
 # Analysis
 ## Aggregate Statistics
+In my excel workbook, I have calculated the minimum and maximum values of car popularity, which was found to be 2 and 5657 respectively. I also calculated the average for car popularity, which was 1550.99, and the standard deviation for car popularity, which was 1416.75. These stats give us an idea of how car popularity values are distributed and tell us that they vary from 2 to 5657 with most car's having a popularity of about 1550. The high standard deviation value and wide range of data tells us that popularity varies greatly. Furthermore, I calculated the minimum, maximum, and mean car popularity values for only convertibles so that we can see if convertibles are more or less popular than the average car. The minimum was found to be 2 and the maximum was found to be 5657. The mean was calculated as 1498.53. This shows us that the popularity of convertibles has the same range of values as that of all cars. The mean, however, shows us that on average, convertible cars are less popular than the average car despite convertibles having the potential to be just as popular as even the most popular cars. I also calculated the percent of all cars in the table that were labeled as convertibles, which was found to be 7.11%. This shows us that convertibles make up a relatively small portion of cars produced but can still be just as popular as other high production cars.
 
 ## Pivot Table
 Here's a sampling of the pivot table I created:
@@ -61,7 +62,7 @@ Here's a sampling of the pivot table I created:
 |                       automatic|140|4.00|28.00|21.00|204.00|29100.22
 |                       manual|195|4.00|28.00|22.00|204.00|30172.88
 
-I'm not sure how to get it to display like the table in the excel workbook, but this is the best I can do. The pivot table should be included in the clean_data.xlsx workbook in the data folder.
+I'm not sure how to get it to display like the table in the excel workbook, but this is the best I can do. The pivot table should be included in the clean_data.xlsx workbook in the data folder. This pivot table groups together car manufacturers and further splits each manufacturer by year, car size, car style, car model, driven wheels, and transmission. This table can be used to easily find various statistics for each car manufacturer, such as average popularity or average MSRP. These are also provided for each subheading in the table. From the table, we can see that Acura models are on average more popular and cheaper than Alfa Romeo models. Acura models have an average popularity of 204 and an average MSRP of $42501.22 compared to Alfa models which have an average popularity of 113 and an average MSRP of $63392.09. This same comparison can be easily performed for any other set of car manufacturers.
 
 # Extra Credit
 ## Option 2: Big Data
