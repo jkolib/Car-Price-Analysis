@@ -43,7 +43,7 @@ Here's a sampling of the pivot table I created:
 |Manufacturers|Max of engine_hp|Average of cylinders|Average of mpg_highway|Average of mpg_city|Average of popularity|Average of msrp
 |---|---|---|---|---|---|---
 |acura|573|5.32|28.76|20.35|204.00|42501.22
-|   2000|195|4.00|28.00|22.00|204.00|5515.30
+|   \t2000|195|4.00|28.00|22.00|204.00|5515.30
 |       compact|195|4.00|28.00|22.00|204.00|5515.30
 |           2dr_hatchback|195|4.00|28.00|22.00|204.00|6144.37
 |               integra|195|4.00|28.00|22.00|204.00|6144.37
@@ -61,3 +61,4 @@ Here's a sampling of the pivot table I created:
 |                       automatic|140|4.00|28.00|21.00|204.00|29100.22
 |                       manual|195|4.00|28.00|22.00|204.00|30172.88
 
+I'm not sure how to get it to display like the table in the excel workbook, but this 
