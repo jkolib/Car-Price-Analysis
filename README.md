@@ -63,7 +63,3 @@ Here's a sampling of the pivot table I created:
 |                       manual|195|4.00|28.00|22.00|204.00|30172.88
 
 I'm not sure how to get it to display like the table in the excel workbook, but this is the best I can do. The pivot table should be included in the clean_data.xlsx workbook in the data folder. This pivot table groups together car manufacturers and further splits each manufacturer by year, car size, car style, car model, driven wheels, and transmission. This table can be used to easily find various statistics for each car manufacturer, such as average popularity or average MSRP. These are also provided for each subheading in the table. From the table, we can see that Acura models are on average more popular and cheaper than Alfa Romeo models. Acura models have an average popularity of 204 and an average MSRP of $42501.22 compared to Alfa models which have an average popularity of 113 and an average MSRP of $63392.09. This same comparison can be easily performed for any other set of car manufacturers.
-
-# Extra Credit
-## Option 2: Big Data
-My original data set has almost 12,000 records, which satisfies the definition of large data set for this assignment.
