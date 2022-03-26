@@ -1,5 +1,3 @@
-# place your code to clean up the data file below.
-
 import csv
 
 # method for standardizing keys and values of dictionary-represented rows
